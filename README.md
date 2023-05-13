@@ -75,6 +75,11 @@ Como puede observarse, posee 5 fotos que funcionan como botón y como gif. En re
 ![image](https://github.com/jhoncale/Lab_4/assets/38961990/04546149-4b72-48cd-9e4c-339e25d5e5c6)
 
 
+#### Video cambio de poses.
+
+
+https://github.com/jhoncale/Lab_4/assets/38961990/e403b909-0b5a-41eb-b6cf-185d6fcfe70e
+
 
 
 
