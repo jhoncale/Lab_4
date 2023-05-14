@@ -83,3 +83,7 @@ https://github.com/jhoncale/Lab_4/assets/38961990/e403b909-0b5a-41eb-b6cf-185d6f
 
 
 
+https://github.com/jhoncale/Lab_4/assets/38961990/aa269f71-db43-45ff-b478-ccdd316c708e
+
+
+
